@@ -1,74 +1,94 @@
+---
+
 # 👋 Salut, je suis Abdelkarim (@UnknOownU)
-Bienvenue sur mon profil GitHub ! Je suis un développeur Full Stack passionné, récemment diplômé d'un Bac +2 en développement web. Actuellement, je suis en quête d'une alternance pour poursuivre ma formation en Conception et Développement d'Applications (CDA) ou d'un emploi pour appliquer mes compétences acquises.
 
-## 👀 Compétences Techniques
-Langages & Frameworks
+Bienvenue sur mon profil GitHub ! Je suis un développeur Full Stack passionné, récemment diplômé d'un Bac +2 en développement web. Actuellement, je suis à la recherche d'une alternance pour poursuivre mes études en Conception et Développement d'Applications (CDA) ou d'un emploi à temps plein pour appliquer et élargir mes compétences.
 
-    HTML, CSS, JavaScript, Bootstrap
-    PHP, Symfony
-    React, Node.js
-    API (Postman), MERN Stack
+---
 
-Bases de Données
+## 🛠️ Compétences Techniques
 
-    MySQL, PostgreSQL, MongoDB
-    Google Firestore
+### Langages & Frameworks
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![MERN](https://img.shields.io/badge/MERN-3c3c3c?logo=mongodb&logoColor=green)
 
-Outils & Technologies
+### Bases de Données
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?logo=mongodb&logoColor=white) ![Google Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)
 
-    Git, GitHub, GitLab
-    Docker
-    Google Firebase Hosting
-    OVH
+### Outils & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![OVH](https://img.shields.io/badge/OVH-123F6D?logo=ovh&logoColor=white)
 
-## 🌱 Parcours Éducatif
+---
 
-    AFPA - Développeur Web et Web Mobile (DWWM)
-        📆 Janvier 2024 - Juin 2024
-        🏆 Diplôme Bac +2 obtenu
-        Stage : Développement Full Stack chez Livz.app (06 Mai 2024 - 06 Juin 2024)
+## 🚀 Projets Clés & Expériences
 
-    Lycée Colbert
-        📆 2019 - 2023
-        🏆 Bac Général et Technologique avec spécialité S.I.N obtenu
+### 🔗 AutoLux Carrosserie
+**Rôle :** Développeur Web (Bénévolat)  
+**Technologies :** HTML, CSS, JavaScript, Bootstrap  
+**Réalisations :**
+- Développement d'un site web responsive optimisé pour le SEO, améliorant la visibilité en ligne du client.
+- Déploiement du site via OVH avec une gestion du versioning sur GitHub.
 
-## 💼 Expériences & Projets
+### 🔗 Livz.app
+**Rôle :** Développeur Full Stack (Stage)  
+**Technologies :** React, Node.js, Firestore, Firebase Hosting  
+**Réalisations :**
+- Création d'une application web et mobile indépendante avec synchronisation des données en temps réel via Google Firestore.
+- Intégration d'une fonctionnalité de diaporama contrôlé à distance, améliorant l'expérience utilisateur.
 
-🔗 AutoLux Carrosserie
+### 🔗 Cleanthis
+**Rôle :** Développeur Full Stack (Projet)  
+**Technologies :** Symfony, React, MySQL, MongoDB, Docker  
+**Réalisations :**
+- Conception et implémentation d'une application web et mobile pour une entreprise fictive de services de nettoyage.
+- Développement d'un panneau d'administration complet utilisant EasyAdmin, avec des fonctionnalités telles que les opérations CRUD et les intégrations API.
 
-    Rôle : Développeur Web (Bénévolat)
-    Description :
-        Création d'un site web responsive et optimisé pour le SEO
-        Déploiement du site via OVH
-        Gestion du versioning avec GitHub
-        Technologies utilisées : HTML, CSS, JavaScript, Bootstrap
+### 🔗 SwearJar
+**Rôle :** Développeur Full Stack (Projet)  
+**Technologies :** JavaScript, HTML5, CSS3, PHP, MySQL  
+**Réalisations :**
+- Développement d'une application native pour suivre et gérer les infractions en temps réel avec un système de pénalités virtuelles.
+- Utilisation de MySQL pour la persistance des données et mise en place d'une interface utilisateur propre et conviviale.
 
-🔗 Livz.app
+---
 
-    Rôle : Développeur Full Stack (Stage)
-    Description :
-        Développement d'une application web et mobile indépendante
-        Implémentation d'une fonctionnalité de diaporama à distance
-        Utilisation de Google Firestore pour la gestion de la base de données
-        Technologies utilisées : React, Node.js, Firestore, Firebase Hosting
+## 🎓 Formation
 
-🔗 Cleanthis
+### AFPA - Développeur Web et Web Mobile (DWWM)
+**Dates :** Janvier 2024 - Juin 2024  
+**Diplôme :** Bac +2 en Développement Web  
+**Stage :** Développeur Full Stack chez Livz.app (Mai 2024 - Juin 2024)
 
-    Rôle : Développeur Full Stack (Projet)
-    Description :
-        Conception d'une application web et mobile avec Symfony 6
-        Développement d'un back-office et front-office complets
-        Intégration d'un module indépendant en React pour l'affichage des logs
-        Gestion des données avec MySQL et MongoDB
-        Intégration d'API externes pour la gestion des clients et la génération de factures
-        Mise en œuvre de fonctionnalités CRUD complètes
-        Technologies utilisées : Symfony, React, MySQL, MongoDB, Docker
+### Lycée Colbert
+**Dates :** 2019 - 2023  
+**Diplôme :** Bac Général et Technologique avec spécialisation en Systèmes Numériques (S.I.N)
 
-🔗 SwearJar
+---
 
-    Rôle : Développeur Full Stack (Projet)
-    Description :
-        Développement d'une application native permettant de signaler et de suivre les insultes dans la vie réelle
-        Mise en place d'un système d'assignation d'amendes virtuelles pour chaque infraction enregistrée
-        Gestion de la base de données avec MySQL
-        Technologies utilisées : JavaScript, HTML5, CSS3, PHP
+## 🌍 Objectifs Professionnels
+
+Je souhaite tirer parti de mes compétences techniques et de ma créativité pour contribuer à des projets innovants. Je suis particulièrement intéressé par les opportunités où je peux collaborer avec des équipes avant-gardistes, apprendre des leaders du secteur, et évoluer en tant que Développeur Full Stack. Mon objectif immédiat est de sécuriser une alternance ou un poste à temps plein qui me mette au défi et me permette de développer des solutions ayant un impact réel.
+
+---
+
+## 📫 Restons en Contact
+
+Si vous êtes intéressé par une discussion sur des opportunités ou des collaborations, n'hésitez pas à me contacter :
+
+- **Email :** [boucharafa.abdelkarim@gmail.com](mailto:boucharafa.abdelkarim@gmail.com)
+- **GitHub :** [UnknOownU](https://github.com/UnknOownU)
+- **Portfolio :** [Abdelkarim Boucharafa](https://portfolio-abdelkarimboucharafa.web.app)
+- **LinkedIn :** [Abdelkarim Boucharafa](https://www.linkedin.com/in/abdel-karim-boucharafa-419124298/)
+
+---
+
+**Dernière mise à jour :** Août 2024
+
+---
+
+### 🏆 Statistiques GitHub
+
+![Statistiques GitHub de UnknOownU](https://github-readme-stats.vercel.app/api?username=UnknOownU&show_icons=true&theme=radical)
+
+---
