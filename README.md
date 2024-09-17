@@ -2,7 +2,7 @@
 
 # 👋 Salut, je suis Abdelkarim (@UnknOownU)
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur Full Stack passionné, récemment diplômé d'un Bac +2 en développement web. Actuellement, je suis à la recherche d'une alternance pour poursuivre mes études en Conception et Développement d'Applications (CDA) ou d'un emploi à temps plein pour appliquer et élargir mes compétences.
+Bienvenue sur mon profil GitHub ! Développeur Full Stack passionné, titulaire d'un Bac +2 en développement web, je suis actuellement en formation de Concepteur Développeur d'Applications à Simplon pour obtenir un diplôme Bac +3/4.
 
 ---
 
