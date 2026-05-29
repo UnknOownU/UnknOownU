@@ -1,8 +1,3 @@
+I build agentic AI systems — multi-agent orchestration, MCP tooling, autonomous architectures.
 
----
-
-### 🏆 GitHub Statistics
-
-![UnknOownU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnknOownU&show_icons=true&theme=radical)
-
----
+Je construis des systèmes d'IA agentiques — orchestration multi-agents, MCP tooling, architectures autonomes.
